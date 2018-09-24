@@ -1,16 +1,21 @@
 _repo: Making-Tin-Can-Toys_56939
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Thatcher, Isabel
     gutenberg_agent_id: '49091'
     url: http://www.gutenberg.org/2009/agents/49091
+covers:
+- cover_type: archival
+  image_path: 56939-h/images/cover.jpg
 creator:
   author:
     agent_name: Thatcher, Edward
     gutenberg_agent_id: '49090'
     url: http://www.gutenberg.org/2009/agents/49090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56939#Making-Tin-Can-Toys
 gutenberg_issued: '2018-04-07'
 gutenberg_type: Text
 identifiers:
